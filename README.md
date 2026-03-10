@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Full-Stack projects and improving my Data Structures & Algorithms skills**<br>👯 I’m looking to collaborate on **open-source projects and scalable web applications**<br>🤝 I’m looking for help with **Cloud technologies and system design**<br>🌱 I’m currently learning **Data Structures & Algorithms, Cloud Computing, and scalable backend architecture**<br>💬 Ask me about **JavaScript, TypeScript, Docker, React, Node.js, MERN Stack**<br>⚡ Fun fact: **I can play badminton all day**<br>
+🔭 I’m currently working on **Full-Stack projects and improving my Data Structures & Algorithms skills**<br>👯 I’m looking to collaborate on **open-source projects and scalable web applications**<br>🤝 I’m looking for help with **Cloud technologies**<br>🌱 I’m currently learning **Data Structures & Algorithms, Cloud Computing, and scalable backend architecture**<br>💬 Ask me about **JavaScript, TypeScript, Docker, React, Node.js, MERN Stack**<br>⚡ Fun fact: **I can play badminton all day**<br>
 
 
 ## 🌐 Socials:
